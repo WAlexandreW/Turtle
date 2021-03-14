@@ -9,7 +9,7 @@ Here, I wanted to model the influence of vaccination and lockdowns (all other pa
 
 
  Hence, here are the findings:<br />
-
+![](https://github.com/WAlexandreW/Turtle/blob/main/All_strat.png)
 
 
 A visual representation:<br />
