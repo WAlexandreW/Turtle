@@ -1,4 +1,4 @@
-# An Covid19/ Epidemics and the effects of lockdown/vaccination strategies modelisation
+# An Covid19/ Epidemics and the possible effects of lockdown/vaccination strategies
 
 Following a modelization on Courrier International on the positive impact of lockdowns to decrease the pace of the epidemic, i wanted to also add the impact of vaccination.
 Of course, in all modelization, there is a part of subjectivity on the coefficients or weights used, etc...  <br />
