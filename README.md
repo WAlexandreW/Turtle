@@ -5,3 +5,6 @@ Of course, in all modelization, there is a part of subjectivity on the coefficie
 - Vaccinations prevent infection and contagion
 
  Hence, here are the findings:
+
+
+![](https://github.com/WAlexandreW/Turtle/blob/main/Covid_20Lockdown_60Vax.gif)
