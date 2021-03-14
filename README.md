@@ -7,4 +7,6 @@ Of course, in all modelization, there is a part of subjectivity on the coefficie
  Hence, here are the findings:
 
 
+
+A visual representation:
 ![](https://github.com/WAlexandreW/Turtle/blob/main/Covid_20Lockdown_60Vax.gif)
