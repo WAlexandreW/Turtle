@@ -11,4 +11,6 @@ Here, I wanted to model the influence of vaccination and lockdowns (all other pa
 
 
 A visual representation:<br />
+- Red means infected, Blue means non-infected
+- Triangles are the ordinary state, circle means in lockdown, squares means vaccinated
 ![](https://github.com/WAlexandreW/Turtle/blob/main/Covid_20Lockdown_60Vax.gif)
