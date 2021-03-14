@@ -5,6 +5,8 @@ Of course, in all modelization, there is a part of subjectivity on the coefficie
 
 Here, I wanted to model the influence of vaccination and lockdowns (all other parameters being constant), based on assumption: <br />
 - Vaccinations prevent infection and contagion<br />
+- move speed, directions are random
+
 
  Hence, here are the findings:<br />
 
